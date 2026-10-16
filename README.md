@@ -14,7 +14,7 @@ HTML5 · CSS3 · JavaScript
 
 | Seção | Tema | Status |
 |-------|------|--------|
-| 01 | Introdução ao HTML | ✅ concluído |
+| 01 | Introdução ao HTML | 🔄 Revendo |
 | 02 | Introdução ao CSS | ✅ concluído |
 | 03 | Trabalhando com imagens | ✅ concluído |
 | 04 | Estrutura semâmtica e posicionamento | ✅ concluído |

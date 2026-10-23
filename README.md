@@ -14,8 +14,8 @@ HTML5 · CSS3 · JavaScript
 
 | Seção | Tema                                  | Status          |
 | ----- | ------------------------------------- | --------------- |
-| 01    | Introdução ao HTML                    | 🔄 Revendo      |
-| 02    | Introdução ao CSS                     | ✅ concluído    |
+| 01    | Introdução ao HTML                    | ✅ concluído    |
+| 02    | Introdução ao CSS                     | 🔄 Revendo      |
 | 03    | Trabalhando com imagens               | ✅ concluído    |
 | 04    | Estrutura semâmtica e posicionamento  | ✅ concluído    |
 | 05    | Flexbox                               | ✅ concluído    |
@@ -26,6 +26,6 @@ HTML5 · CSS3 · JavaScript
 | 10    | Lista, tabelas, details e popover     | ✅ concluído    |
 | 11    | Formulários                           | ✅ concluído    |
 | 12    | Projeto 5 - Fomulário de contato      | ✅ concluído    |
-| 13    | Seletores avançados                   | ✅ concluídor   |
+| 13    | Seletores avançados                   | ✅ concluído    |
 | 14    | Transformações 2D                     | 🔄 Em andamento |
 | 15    | Projeto 6 - MyComponents              | ⏳ A fazer      |

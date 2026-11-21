@@ -15,9 +15,9 @@ HTML5 · CSS3 · JavaScript
 | Seção | Tema                                  | Status          |
 | ----- | ------------------------------------- | --------------- |
 | 01    | Introdução ao HTML                    | ✅ concluído    |
-| 02    | Introdução ao CSS                     | 🔄 Revendo      |
+| 02    | Introdução ao CSS                     | ✅ concluído    |
 | 03    | Trabalhando com imagens               | ✅ concluído    |
-| 04    | Estrutura semâmtica e posicionamento  | ✅ concluído    |
+| 04    | Estrutura semâmtica e posicionamento  | 🔄 Revendo      |
 | 05    | Flexbox                               | ✅ concluído    |
 | 06    | Projeto 2 - Lista de contatos         | ✅ concluído    |
 | 07    | Projeto 3 - Página escolha seu plano  | ✅ concluído    |
